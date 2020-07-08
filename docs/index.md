@@ -309,7 +309,7 @@ Notes on the image captions
   
 ### N5 
 
-  The sort links after N5 lead to sets of pair diagrams. Each pattern in such a set can be morphed into the others by nudging pins.
+  The short links after N5 lead to sets of pair diagrams. Each pattern in such a set can be morphed into the others by nudging pins.
   Only four of these links ([c],[t],[k],[v]) cover more than a third of the grounds in the table,
   a ratio that illustrates how many variations can be made by changing stitches or nudging pin positions.
 
