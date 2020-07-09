@@ -135,7 +135,7 @@ title: Whiting index
 |  15 | [N3](#N3) [![](w/page89a.gif)][P89] | [N3](#N3) [![](w/page109a.gif)][P109] | [N3](#N3) [![](w/page130a.gif)][P130] | [N3](#N3) [![](w/page149a.gif)][P149] | [N3](#N3) [![](w/page173a.gif)][P173] | [N3](#N3) [![](w/page194a.gif)][P194] | [N3](#N3) [![](w/page213a.gif)][P213] | [N3](#N3)<br> [![](w/page237a.gif)][P237] |
 |  16 | [diagr][A16], [N5](#N5):[ts][ts] [![](w/page90a.gif)][P90] | [diagr][B16] [![](w/page110a.gif)][P110] | [diagr][C16] [![](w/page131a.gif)][P131] | [diagr][D16] [![](w/page150a.gif)][P150] | [diagr][E16] [![](w/page174a.gif)][P174] | [diagr][F16] [![](w/page195a.gif)][P195] | [diagr][G16] [![](w/page214a.gif)][P214] | [N4](#N4)<br> [![](w/page238a.gif)][P238] |
 |  17 | [N3](#N3) [![](w/page91a.gif)][P91] | [N4](#N4) [![](w/page111a.gif)][P111] | [diagr][C17], [N5](#N5):[k][k] [![](w/page132a.gif)][P132] | [N3](#N3) [![](w/page151a.gif)][P151] | [diagr][E17],[c][c] [![](w/page175a.gif)][P175] | [N3](#N3) [![](w/page196a.gif)][P196] | [N3](#N3) [![](w/page215a.gif)][P215] | [N3](#N3) [![](w/page239a.gif)][P239] |
-|  18 | [diagr][A18] [![](w/page93a.gif)][P93] | [N3](#N3) [![](w/page112a.gif)][P112] | [N3](#N3) [![](w/page133a.gif)][P133] | [N3](#N3) [![](w/page153a.gif)][P153] | [N3](#N3) [![](w/page176a.gif)][P176] | [diagr][F18], [N5](#N5):[c][c] [![](w/page197a.gif)][P197] | [N3](#N3) [![](w/page217a.gif)][P217] | [diagr][H18b], [top][H18a] [![](w/page241a.gif)][P241] |
+|  18 | [diagr][A18] [![](w/page93a.gif)][P93] | [N3](#N3) [![](w/page112a.gif)][P112] | [N3](#N3) [![](w/page133a.gif)][P133] | [N3](#N3) [![](w/page153a.gif)][P153] | [N3](#N3) [![](w/page176a.gif)][P176] | [diagr][F18], [N5](#N5):[c][c] [![](w/page197a.gif)][P197] | [N3](#N3) [![](w/page217a.gif)][P217] | [N6](#N6) [Ga][H18a], [Gb][H18b]  [![](w/page241a.gif)][P241] |
 |     | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
 
 [P70]: https://archive.org/details/laceguideformak00whit/page/70
@@ -311,9 +311,12 @@ Notes on the image captions
 
   The short links after N5 lead to sets of pair diagrams. Each pattern in such a set can be morphed into the others by nudging pins.
   Only four of these links ([c],[t],[k],[v]) cover more than a third of the grounds in the table,
-  a ratio that illustrates how many variations can be made by changing stitches or nudging pin positions.
-
-
+  a ratio that illustrates how many variations can be made by changing stitches or nudging pin positions.            
+  
+### N6   
+  Pattern [H16][P241] consists of two parts, starting with [Ground a][H18a], and changing halfway to [Ground b][H18b].   
+  
+  
 Multiple samples with a single base diagram
 -------------------------------------------
 
