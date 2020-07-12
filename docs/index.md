@@ -413,7 +413,7 @@ a different working order is required.
   See for example "`The book of bobbin lace stitches`" by Bridget M. Cook and Geraldine Stott. 
 
 ### <a name="H18-variants"/>H18 &mdash; two patterns
-[![](w/page241.gif)][P241]
+[![](w/page241a.gif)][P241]
 The work consists of two parts, starting with [Ground a][H18a], and changing halfway to [Ground b][H18b].   
 
 
