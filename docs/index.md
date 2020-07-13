@@ -130,12 +130,12 @@ title: Whiting index
 |  11 | [diagr][A11], [N5](#n5):[t][t] [![](w/page83a.gif)][P83] | [diagr][B11], [N5](#n5):[t][t] [![](w/page104a.gif)][P104] | [N3](#n3) [![](w/page125a.gif)][P125] | [diagr][D11], [N5](#n5):[wk][wk] [![](w/page144a.gif)][P144] | [diagr][E11], [N5](#n5):[wk][wk] [![](w/page166a.gif)][P166] | [diagr][F11], [N5](#n5):[t][t] [![](w/page189a.gif)][P189] | [val](#val) [![](w/page209a.gif)][P209] | [N3](#n3)<br> [![](w/page231a.gif)][P231] |
 |  12 | [diagr][A12] [![](w/page84a.gif)][P84] | [N4](#n4) [![](w/page105a.gif)][P105] | [diagr][C12] [![](w/page126a.gif)][P126] | [diagr][D12] [![](w/page145a.gif)][P145] | [diagr][E12] [![](w/page167a.gif)][P167] | [diagr][F12] [![](w/page190a.gif)][P190] | [diagr][G12] [![](w/page210a.gif)][P210] | [diagr][H12] [![](w/page232a.gif)][P232] |
 |     | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
-|  13 | [N3](#n3) [3 pairs](#3pair) [![](w/page85a.gif)][P85] | [N3](#n3) [![](w/page106a.gif)][P106] | [N3](#n3) [![](w/page128a.gif)][P128] | [N3](#n3) [![](w/page147a.gif)][P147] | [N3](#n3) [![](w/page169a.gif)][P169] | [N3](#n3) [![](w/page192a.gif)][P192] | [N3](#n3) [![](w/page211a.gif)][P211] | [N3](#n3)<br> [![](w/page234a.gif)][P234] |
+|  13 | [N3](#n3) [3 pairs](#a13joins) [![](w/page85a.gif)][P85] | [N3](#n3) [![](w/page106a.gif)][P106] | [N3](#n3) [![](w/page128a.gif)][P128] | [N3](#n3) [![](w/page147a.gif)][P147] | [N3](#n3) [![](w/page169a.gif)][P169] | [N3](#n3) [![](w/page192a.gif)][P192] | [N3](#n3) [![](w/page211a.gif)][P211] | [N3](#n3)<br> [![](w/page234a.gif)][P234] |
 |  14 | [semi-DIY](#DIY) [![](w/page87a.gif)][P87] | [diagr][B14], [N2](#n2) [![](w/page107a.gif)][P107] | [diagr][E14] [![](w/page129a.gif)][P129] | [N4](#n4) [![](w/page148a.gif)][P148] | [diagr][E14] [![](w/page171a.gif)][P171] | [diagr][F14]  [![](w/page193a.gif)][P193] | [diagr][G14] [![](w/page212a.gif)][P212] | [more](#moreH14)<br>[![](w/page235a.gif)][P235] |
 |  15 | [N3](#n3) [![](w/page89a.gif)][P89] | [N3](#n3) [![](w/page109a.gif)][P109] | [N3](#n3) [![](w/page130a.gif)][P130] | [N3](#n3) [![](w/page149a.gif)][P149] | [N3](#n3) [![](w/page173a.gif)][P173] | [N3](#n3) [![](w/page194a.gif)][P194] | [N3](#n3) [![](w/page213a.gif)][P213] | [N3](#n3)<br> [![](w/page237a.gif)][P237] |
 |  16 | [diagr][A16], [N5](#n5):[ts][ts] [![](w/page90a.gif)][P90] | [diagr][B16] [![](w/page110a.gif)][P110] | [diagr][C16] [![](w/page131a.gif)][P131] | [diagr][D16] [![](w/page150a.gif)][P150] | [diagr][E16] [![](w/page174a.gif)][P174] | [diagr][F16] [![](w/page195a.gif)][P195] | [diagr][G16] [![](w/page214a.gif)][P214] | [N4](#n4)<br> [![](w/page238a.gif)][P238] |
 |  17 | [N3](#n3) [![](w/page91a.gif)][P91] | [N4](#n4) [![](w/page111a.gif)][P111] | [diagr][C17], [N5](#n5):[k][k] [![](w/page132a.gif)][P132] | [N3](#n3) [![](w/page151a.gif)][P151] | [diagr][E17],[c][c] [![](w/page175a.gif)][P175] | [N3](#n3) [![](w/page196a.gif)][P196] | [N3](#n3) [![](w/page215a.gif)][P215] | [N3](#n3) [![](w/page239a.gif)][P239] |
-|  18 | [diagr][A18] [![](w/page93a.gif)][P93] | [N3](#n3) [![](w/page112a.gif)][P112] | [N3](#n3) [![](w/page133a.gif)][P133] | [N3](#n3) [![](w/page153a.gif)][P153] | [N3](#n3) [![](w/page176a.gif)][P176] | [diagr][F18], [N5](#n5):[c][c] [![](w/page197a.gif)][P197] | [N3](#n3) [![](w/page217a.gif)][P217] | [variants](#H18variants): [a][H18a], [b][H18b]  [![](w/page241a.gif)][P241] |
+|  18 | [diagr][A18] [![](w/page93a.gif)][P93] | [N3](#n3) [![](w/page112a.gif)][P112] | [N3](#n3) [![](w/page133a.gif)][P133] | [N3](#n3) [![](w/page153a.gif)][P153] | [N3](#n3) [![](w/page176a.gif)][P176] | [diagr][F18], [N5](#n5):[c][c] [![](w/page197a.gif)][P197] | [N3](#n3) [![](w/page217a.gif)][P217] | [variants](#h18variations): [a][H18a], [b][H18b]  [![](w/page241a.gif)][P241] |
 |     | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
 
 [P70]: https://archive.org/details/laceguideformak00whit/page/70
@@ -413,7 +413,7 @@ a different working order is required.
   See for example "`The book of bobbin lace stitches`" by Bridget M. Cook and Geraldine Stott. 
 
 
-### <a name="H18variants"/>H18 &mdash; two patterns
+### <a name="h18variations"/>H18 &mdash; two patterns
 
 [![](w/page241a.gif)][P241]      
 
@@ -422,7 +422,7 @@ The work consists of two parts, starting with [Ground a][H18a], and changing hal
 ## Three&dash;paired joins   
 
 Groundforge can not do real three&dash;paired joins. However, we can simulate such a join by treating it as a series of stitches. See [MAE-GF][p-mae-gf-3] for some examples.      
-### <a name="3pair"/>A13 &mdash; examples of three&dash;paired joins
+### <a name="a13joins"/>A13 &mdash; examples of three&dash;paired joins
 
 [![](w/page85a.gif)][P85]   
 
