@@ -427,11 +427,11 @@ Groundforge can not do real three&dash;paired joins. However, we can simulate su
 [![](w/page85a.gif)][P85]   
 
 In pattern A13 the three&dash;paired join is made as follows: the horizontal and vertical pairs make a cloth stitch, the diagonal paired is laid alternating over and under the cloth stitch. Gibritte has done research on A13, see her [blog][b-gibritte].         
-We have made two examples to play with: one with [snowflake&dash;joins][a13snow] and one with [fish&dash;joins][a13fish].
+We have made two examples to play with: one with [star&dash;joins][a13star] and one with [fish&dash;joins][a13fish].
 
 [p-mae-gf-3]: https://maetempels.github.io/MAE-gf/docs/misca#3-paired-join
 [b-gibritte]: http://www.gibritte.com/
-[a13snow]: https://d-bl.github.io/GroundForge/tiles?patchWidth=17&patchHeight=20&e1=c&a1=c&e2=crclc&d2=crclc&b2=crclcrrrrrr&a2=llcrclc&d3=ctttt&b3=ctttt&c4=ctctttt&d5=c&b5=c&e6=clcrc&d6=clcrcllllll&b6=clcrc&a6=clcrcll&e7=ctt&a7=ctt&f8=ctctt&tile=c---b-,m9-l8-,-7-4--,--5---,-b-c--,0f-1h-,4---7-,-----5&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8
+[a13star]: https://d-bl.github.io/GroundForge/tiles?patchWidth=17&patchHeight=20&e1=c&a1=c&e2=crclc&d2=crclc&b2=crclcrrrrrr&a2=llcrclc&d3=ctttt&b3=ctttt&c4=ctctttt&d5=c&b5=c&e6=clcrc&d6=clcrcllllll&b6=clcrc&a6=clcrcll&e7=ctt&a7=ctt&f8=ctctt&tile=c---b-,m9-l8-,-7-4--,--5---,-b-c--,0f-1h-,4---7-,-----5&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8
 [a13fish]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=20&e1=ctc&a1=ctc&e2=ctc&d2=ctc&b2=ctcrrrrrrr&a2=llctc&d3=ctctttt&b3=ctctttt&c4=ctctttt&d5=ctc&b5=ctc&e6=ctc&d6=ctclllllll&b6=ctc&a6=ctcll&e7=ctctt&a7=ctctt&f8=ctctt&tile=c---b-,m9-l8-,-7-4--,--5---,-b-c--,0f-1h-,4---7-,-----5&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8
    
 <a name="source"/>
