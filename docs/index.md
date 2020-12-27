@@ -108,10 +108,10 @@ title: Whiting index
 [G16]: /GroundForge/tiles?whiting=G16_P214&patchWidth=6&patchHeight=12&a1=ctct&b2=ctct&a3=ctc&b4=ctc&a4=ctcll&b5=ctcrr&a5=ctc&a6=ctct&tile=5-,-5,5-,12,88,4-&tileStitch=ctc&shiftColsSW=-1&shiftRowsSW=6&shiftColsSE=1&shiftRowsSE=6
 
 [C17]: /GroundForge/tiles?whiting=C17_P132&patchWidth=12&patchHeight=12&c1=ctctttt&a1=ctctttt&d2=ctctttt&c3=ctctttt&a3=ctctttt&b4=ctctttt&tile=L-O-,---5,H-E-,-5--&tileStitch=ctctttt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[E17]: /GroundForge/tiles?whiting=C17_P175&patchWidth=7&patchHeight=8&b1=ctctrrr&a1=lllctct&b2=ctctrrr&a2=ctctttt&tile=88,11&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[E17]: /GroundForge/tiles?whiting=E17_P175&patchWidth=7&patchHeight=8&b1=ctctrrr&a1=lllctct&b2=ctctrrr&a2=ctctttt&tile=88,11&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [A18]: /GroundForge/tiles?whiting=A18_P93&patchWidth=8&patchHeight=9&c1=ctcrr&a1=ctcll&d2=ctc&b2=ctctt&tile=5-5-,-5-5&tileStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[F18]: /GroundForge/tiles?whiting=FF18_P197&patchWidth=6&patchHeight=6&b1=cttctt&a1=cttctt&b2=cttctt&a2=cttctt&tile=88,11&tileStitch=cttctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[F18]: /GroundForge/tiles?whiting=F18_P197&patchWidth=6&patchHeight=6&b1=cttctt&a1=cttctt&b2=cttctt&a2=cttctt&tile=88,11&tileStitch=cttctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [H18a]: /GroundForge/tiles?whiting=H18_P241&patchWidth=7&patchHeight=6&b1=ctcrrrr&a1=ctc&b2=ctc&a2=ctcllll&tile=88,11&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [H18b]: /GroundForge/tiles?whiting=H18_P241&patchWidth=9&patchHeight=14&b1=ctcttt&c2=ctcttt&a2=ctcttt&b3=ctcttt&c4=ctctll&a4=ctctrr&b5=ctcttt&tile=-5-,5-5,-5-,B-C,-5-,Y-W,&tileStitch=ctcttt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
