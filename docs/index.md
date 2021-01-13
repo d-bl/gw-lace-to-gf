@@ -7,14 +7,6 @@ title: Whiting index
 * The `diagr` links lead to customizable diagrams.
 * [Notes](#notes) on the other components of the image captions.
 
-[c]: /GroundForge/sheet?img=181&patch=88%0A11;bricks&patch=66%0A22;bricks&patch=88%0A99%0A11%0A00;bricks&patch=66%0A11%0A88%0A22;bricks&patch=66%0A99%0A22%0A00;bricks
-[t]: /GroundForge/sheet?img=214&patch=53%0A53%0A53%0A5-;bricks&patch=5663%0A5663;checker&patch=53%0A5-;bricks&patch=563%0A563%0A563;checker&patch=53%0A53;checker&patch=5632%0A5632;checker&patch5353%0A5353;bricks&patch=5-%0A-5;checker&patch=5353%0A5353%0A5-5-%0A-5-5;checker&patch=5632%0A56-2%0A5-5-%0A-535;checker&patch=53%0A5-%0A-5%0A5-;bricks&patch=44%0A77%0A44%0A77;bricks&patch=44%0A44%0A77%0A77;bricks&patch=66%0A88%0A66%0A11;bricks&patch=66%0A66%0A88%0A11;checker&patch=66%0A66%0A99%0A00;checker&patch=6;checker&patch=566-%0A66-5%0A6-56%0A-566;checker
-[v]: /GroundForge/sheet?img=130&patch=5831%0A-4-7;bricks&patch=-437%0A34-7;bricks&patch=4830%0A--77;bricks
-[k]: /GroundForge/sheet?img=376&patch=B-C-%0A---5%0AC-B-%0A-5--;checker&patch=5831%0A-4-7;checker&patch=68%0A-4;checker&patch=-4-7%0A5---%0A-C-B%0A3158;bricks&patch=5-O-E-%0A-E-5-O%0A5-O-E-;bricks
-[wk]: /GroundForge/sheet?img=257&patch=6868%0A-4-4%0A2121%0A-7-7;checker&patch=L-O-L-O-%0A---5---5%0AH-E-H-E-%0A-5---5--;bricks
-[ts]: /GroundForge/sheet?img=135&patch=5-5-%0A-5--%0AB-C-%0A-5-5;bricks&patch=5632%0A34-7;bricks&patch=256-%0A---5%0AC3B-;bricks&patch=4373%0A5-53;bricks
-[z]: /GroundForge/sheet?img=129&patch=1483%0A8-48;bricks&patch=C-B-%0A-5--%0AB8D-%0A-4--;bricks&patch=-48-%0AB--2%0A8-B8;bricks&patch=-4--%0AB-C3%0A8-48;bricks
-
 [A1]: /GroundForge/tiles?whiting=A1_P70&tile=88,11&patchWidth=5&patchHeight=5&a1=ct&b1=ct&a2=ct&b2=ct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=0&shiftRowsSW=2
 [B1]: /GroundForge/tiles?whiting=B1_P94&tile=5-&a1=ctctpctct&patchWidth=5&patchHeight=5&shiftColsSE=1&shiftRowsSE=1&shiftColsSW=-1&shiftRowsSW=1
 [C1]: /GroundForge/tiles?whiting=C1_P114&tile=5-&a1=ctpct&patchWidth=6&patchHeight=6&shiftColsSE=1&shiftRowsSE=1&shiftColsSW=-1&shiftRowsSW=1&footside=
@@ -117,24 +109,24 @@ title: Whiting index
 
 |     | A | B | C | D | E | F | G | H |
 |-----|---|---|---|---|---|---|---|---|
-|  1  | [diagr][A1], [N5](#n5):[c][c] [![](w/page70a.gif)][P70] | [diagr][B1], [N5](#n5):[t][t] [![](w/page94a.gif)][P94] | [diagr][C1], [N5](#n5):[t][t] [![](w/page114a.gif)][P114] | [diagr][D1], [N5](#n5):[t][t] [![](w/page134a.gif)][P134] | [diagr][E1], [N5](#n5):[t][t] [![](w/page155a.gif)][P155] | [diagr][F1], [N5](#n5):[t][t] [![](w/page177a.gif)][P177] | [diagr][G1], [N5](#n5):[t][t] [![](w/page198a.gif)][P198] | [N1](#n1), [N5](#n5):[t][t]<br>[![](w/page219a.gif)][P219] |
-|  2  | [diagr][A2], [N5](#n5):[v][v] [![](w/page71a.gif)][P71] | [diagr][B2], [N5](#n5):[v][v] [![](w/page95a.gif)][P95] | &nbsp; [![](w/page115a.gif)][P115] |  [diagr][D2] [![](w/page135a.gif)][P135] | [diagr][E2] [![](w/page156a.gif)][P156] | [diagr][F2], [N5](#n5):[ts][ts] [![](w/page178a.gif)][P178] | [diagr][G2] [![](w/page199a.gif)][P199] | [diagr][H2] [![](w/page220a.gif)][P220] |
-|  3  | [diagr][A3], [N5](#n5):[t][t] [![](w/page73a.gif)][P73] | [diagr][B3], [N5](#n5):[t][t] [![](w/page96a.gif)][P96] | [diagr][C3], [N5](#n5):[t][t] [![](w/page117a.gif)][P117] | [diagr][D3], [N5](#n5):[t][t]  [![](w/page136a.gif)][P136] | [diagr][E3], [N5](#n5):[t][t] [![](w/page157a.gif)][P157] | [diagr][F3], [N5](#n5): [t][t] [![](w/page179a.gif)][P179] | [diagr][G3], [N5](#n5):[t][t] [![](w/page200a.gif)][P200] | chaotic [![](w/page221a.gif)][P221] |
-|  4  | [N3](#n3) [![](w/page74a.gif)][P74] | [N3](#n3) [![](w/page97a.gif)][P97] | [diagr][C4], [N5](#n5):[k][k] [![](w/page118a.gif)][P118] | [diagr][D4], [N5](#n5):[k][k] [![](w/page137a.gif)][P137] | [diagr][E4] [![](w/page158a.gif)][P158] | [diagr][F4], [N5](#n5):[z][z] [![](w/page180a.gif)][P180] | [diagr][G4] [![](w/page201a.gif)][P201] | [diagr][H4], [N5](#n5):[v][v] [![](w/page222a.gif)][P222] |
+|  1  | [diagr][A1], [N5](#n5):[c][c] [![](w/page70a.gif)][P70] | [diagr][B1], [N5](#n5):[d][d] [![](w/page94a.gif)][P94] | [diagr][C1], [N5](#n5):[d][d] [![](w/page114a.gif)][P114] | [diagr][D1], [N5](#n5):[d][d] [![](w/page134a.gif)][P134] | [diagr][E1], [N5](#n5):[d][d] [![](w/page155a.gif)][P155] | [diagr][F1], [N5](#n5):[d][d] [![](w/page177a.gif)][P177] | [diagr][G1], [N5](#n5):[d][d] [![](w/page198a.gif)][P198] | [N1](#n1), [N5](#n5):[d][d]<br>[![](w/page219a.gif)][P219] |
+|  2  | [diagr][A2], [N5](#n5):[r][r] [![](w/page71a.gif)][P71] | [diagr][B2], [N5](#n5):[r][r] [![](w/page95a.gif)][P95] | &nbsp; [![](w/page115a.gif)][P115] |  [diagr][D2] [![](w/page135a.gif)][P135] | [diagr][E2] [![](w/page156a.gif)][P156] | [diagr][F2], [N5](#n5):[s][s] [![](w/page178a.gif)][P178] | [diagr][G2] [![](w/page199a.gif)][P199] | [diagr][H2] [![](w/page220a.gif)][P220] |
+|  3  | [diagr][A3], [N5](#n5):[d][d] [![](w/page73a.gif)][P73] | [diagr][B3], [N5](#n5):[d][d] [![](w/page96a.gif)][P96] | [diagr][C3], [N5](#n5):[d][d] [![](w/page117a.gif)][P117] | [diagr][D3], [N5](#n5):[d][d]  [![](w/page136a.gif)][P136] | [diagr][E3], [N5](#n5):[d][d] [![](w/page157a.gif)][P157] | [diagr][F3], [N5](#n5): [d][d] [![](w/page179a.gif)][P179] | [diagr][G3], [N5](#n5):[d][d] [![](w/page200a.gif)][P200] | chaotic [![](w/page221a.gif)][P221] |
+|  4  | [N3](#n3) [![](w/page74a.gif)][P74] | [N3](#n3) [![](w/page97a.gif)][P97] | [diagr][C4], [N5](#n5):[k][k] [![](w/page118a.gif)][P118] | [diagr][D4], [N5](#n5):[k][k] [![](w/page137a.gif)][P137] | [diagr][E4] [![](w/page158a.gif)][P158] | [diagr][F4], [N5](#n5):[b][b] [![](w/page180a.gif)][P180] | [diagr][G4] [![](w/page201a.gif)][P201] | [diagr][H4], [N5](#n5):[r][r] [![](w/page222a.gif)][P222] |
 |  5  | [diagr][A5], [N5](#n5):[k][k] [![](w/page75a.gif)][P75] | [diagr][B5], [k][k] [![](w/page98a.gif)][P98] | [diagr][C5], [N5](#n5):[k][k] [![](w/page119a.gif)][P119] | [diagr][D5], [N5](#n5):[c][c] [![](w/page138a.gif)][P138] | [N3](#n3) [![](w/page159a.gif)][P159] | [diagr][F5], [N5](#n5):[c][c] [![](w/page181a.gif)][P181] | [diagr][G5], [N5](#n5):[c][c] [![](w/page203a.gif)][P203] | [diagr][H5], [N5](#n5):[c][c] [![](w/page224a.gif)][P224] |
-|  6  | [diagr][A6], [N5](#n5):[k][k] [![](w/page76a.gif)][P76] | [diagr][B6], [N5](#n5):[v][v] [![](w/page99a.gif)][P99] | [diagr][C6], [N5](#n5):[v][v] [![](w/page120a.gif)][P120] | [diagr][D6], [N5](#n5):[z][z] [![](w/page139a.gif)][P139] | [diagr][E6] [![](w/page160a.gif)][P160] | [diagr][F6], [N5](#n5):[t][t] [![](w/page182a.gif)][P182] | [N3](#n3) [![](w/page204a.gif)][P204] | [diagr][H6] [![](w/page225a.gif)][P225] |
+|  6  | [diagr][A6], [N5](#n5):[k][k] [![](w/page76a.gif)][P76] | [diagr][B6], [N5](#n5):[r][r] [![](w/page99a.gif)][P99] | [diagr][C6], [N5](#n5):[r][r] [![](w/page120a.gif)][P120] | [diagr][D6], [N5](#n5):[b][b] [![](w/page139a.gif)][P139] | [diagr][E6] [![](w/page160a.gif)][P160] | [diagr][F6], [N5](#n5):[d][d] [![](w/page182a.gif)][P182] | [N3](#n3) [![](w/page204a.gif)][P204] | [diagr][H6] [![](w/page225a.gif)][P225] |
 |     | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
 |  7  | [val](#val)  [![](w/page77a.gif)][P77] | [val](#val) [![](w/page100a.gif)][P100] | [val](#val) [![](w/page121a.gif)][P121] | [val](#val) [![](w/page140a.gif)][P140] | [val](#val) [![](w/page161a.gif)][P161] | [val](#val) [![](w/page183a.gif)][P183] | [val](#val) [![](w/page205a.gif)][P205] | [val](#val) [![](w/page226a.gif)][P226] |
 |  8  | [N3](#n3) [![](w/page79a.gif)][P79] | [N3](#n3) [![](w/page101a.gif)][P101] | [N3](#n3) [![](w/page122a.gif)][P122] | [N3](#n3) [![](w/page141a.gif)][P141] | [N3](#n3) [![](w/page162a.gif)][P162] | [N3](#n3) [![](w/page184a.gif)][P184] | [N3](#n3) [![](w/page206a.gif)][P206] | [N3](#n3)<br> [![](w/page227a.gif)][P227] |
-|  9  | [N3](#n3) [![](w/page80a.gif)][P80] | [N3](#n3) [![](w/page102a.gif)][P102] | [diagr][C9], [N5](#n5):[v][v] [![](w/page123a.gif)][P123] | [diagr][D9] [![](w/page142a.gif)][P142] | [diagr][E9] [![](w/page163a.gif)][P163] | [diagr][F9], [N5](#n5):[k][k] [![](w/page185a.gif)][P185] | [diagr][G9], [N5](#n5):[t][t] [![](w/page207a.gif)][P207] | [diagr][H9], [N5](#n5):[t][t] [![](w/page229a.gif)][P229] |
+|  9  | [N3](#n3) [![](w/page80a.gif)][P80] | [N3](#n3) [![](w/page102a.gif)][P102] | [diagr][C9], [N5](#n5):[r][r] [![](w/page123a.gif)][P123] | [diagr][D9] [![](w/page142a.gif)][P142] | [diagr][E9] [![](w/page163a.gif)][P163] | [diagr][F9], [N5](#n5):[k][k] [![](w/page185a.gif)][P185] | [diagr][G9], [N5](#n5):[d][d] [![](w/page207a.gif)][P207] | [diagr][H9], [N5](#n5):[d][d] [![](w/page229a.gif)][P229] |
 |  10 | [N3](#n3) [![](w/page82a.gif)][P82] | [N3](#n3) [![](w/page103a.gif)][P103] | [N3](#n3) [![](w/page124a.gif)][P124] | [N3](#n3) [![](w/page143a.gif)][P143] | [diagr][E10] [![](w/page164a.gif)][P164] | [N3](#n3) [![](w/page187a.gif)][P187] | [diagr][G10] [![](w/page208a.gif)][P208] | [diagr][H10] [![](w/page230a.gif)][P230] |
-|  11 | [diagr][A11], [N5](#n5):[t][t] [![](w/page83a.gif)][P83] | [diagr][B11], [N5](#n5):[t][t] [![](w/page104a.gif)][P104] | [N3](#n3) [![](w/page125a.gif)][P125] | [diagr][D11], [N5](#n5):[wk][wk] [![](w/page144a.gif)][P144] | [diagr][E11], [N5](#n5):[wk][wk] [![](w/page166a.gif)][P166] | [diagr][F11], [N5](#n5):[t][t] [![](w/page189a.gif)][P189] | [val](#val) [![](w/page209a.gif)][P209] | [N3](#n3)<br> [![](w/page231a.gif)][P231] |
+|  11 | [diagr][A11], [N5](#n5):[d][d] [![](w/page83a.gif)][P83] | [diagr][B11], [N5](#n5):[d][d] [![](w/page104a.gif)][P104] | [N3](#n3) [![](w/page125a.gif)][P125] | [diagr][D11], [N5](#n5):[wk][wk] [![](w/page144a.gif)][P144] | [diagr][E11], [N5](#n5):[wk][wk] [![](w/page166a.gif)][P166] | [diagr][F11], [N5](#n5):[d][d] [![](w/page189a.gif)][P189] | [val](#val) [![](w/page209a.gif)][P209] | [N3](#n3)<br> [![](w/page231a.gif)][P231] |
 |  12 | [diagr][A12] [![](w/page84a.gif)][P84] | [N4](#n4) [![](w/page105a.gif)][P105] | [diagr][C12] [![](w/page126a.gif)][P126] | [diagr][D12] [![](w/page145a.gif)][P145] | [diagr][E12] [![](w/page167a.gif)][P167] | [diagr][F12] [![](w/page190a.gif)][P190] | [diagr][G12] [![](w/page210a.gif)][P210] | [diagr][H12] [![](w/page232a.gif)][P232] |
 |     | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
 |  13 | [3 pairs](#a13joins) [![](w/page85a.gif)][P85] | [N3](#n3) [![](w/page106a.gif)][P106] | [N3](#n3) [![](w/page128a.gif)][P128] | [N3](#n3) [![](w/page147a.gif)][P147] | [N3](#n3) [![](w/page169a.gif)][P169] | [N3](#n3) [![](w/page192a.gif)][P192] | [N3](#n3) [![](w/page211a.gif)][P211] | [N3](#n3)<br> [![](w/page234a.gif)][P234] |
 |  14 | [semi-DIY](#DIY) [![](w/page87a.gif)][P87] | [diagr][B14], [N2](#n2) [![](w/page107a.gif)][P107] | [diagr][E14] [![](w/page129a.gif)][P129] | [N4](#n4) [![](w/page148a.gif)][P148] | [diagr][E14] [![](w/page171a.gif)][P171] | [diagr][F14]  [![](w/page193a.gif)][P193] | [diagr][G14] [![](w/page212a.gif)][P212] | [more](#moreH14)<br>[![](w/page235a.gif)][P235] |
 |  15 | [N3](#n3) [![](w/page89a.gif)][P89] | [N3](#n3) [![](w/page109a.gif)][P109] | [N3](#n3) [![](w/page130a.gif)][P130] | [N3](#n3) [![](w/page149a.gif)][P149] | [N3](#n3) [![](w/page173a.gif)][P173] | [N3](#n3) [![](w/page194a.gif)][P194] | [N3](#n3) [![](w/page213a.gif)][P213] | [N3](#n3)<br> [![](w/page237a.gif)][P237] |
-|  16 | [diagr][A16], [N5](#n5):[ts][ts] [![](w/page90a.gif)][P90] | [diagr][B16] [![](w/page110a.gif)][P110] | [diagr][C16] [![](w/page131a.gif)][P131] | [diagr][D16] [![](w/page150a.gif)][P150] | [diagr][E16] [![](w/page174a.gif)][P174] | [diagr][F16] [![](w/page195a.gif)][P195] | [diagr][G16] [![](w/page214a.gif)][P214] | [N4](#n4)<br> [![](w/page238a.gif)][P238] |
+|  16 | [diagr][A16], [N5](#n5):[s][s] [![](w/page90a.gif)][P90] | [diagr][B16] [![](w/page110a.gif)][P110] | [diagr][C16] [![](w/page131a.gif)][P131] | [diagr][D16] [![](w/page150a.gif)][P150] | [diagr][E16] [![](w/page174a.gif)][P174] | [diagr][F16] [![](w/page195a.gif)][P195] | [diagr][G16] [![](w/page214a.gif)][P214] | [N4](#n4)<br> [![](w/page238a.gif)][P238] |
 |  17 | [N3](#n3) [![](w/page91a.gif)][P91] | [N4](#n4) [![](w/page111a.gif)][P111] | [diagr][C17], [N5](#n5):[k][k] [![](w/page132a.gif)][P132] | [N3](#n3) [![](w/page151a.gif)][P151] | [diagr][E17],[c][c] [![](w/page175a.gif)][P175] | [N3](#n3) [![](w/page196a.gif)][P196] | [N3](#n3) [![](w/page215a.gif)][P215] | [N3](#n3) [![](w/page239a.gif)][P239] |
 |  18 | [diagr][A18] [![](w/page93a.gif)][P93] | [N3](#n3) [![](w/page112a.gif)][P112] | [N3](#n3) [![](w/page133a.gif)][P133] | [N3](#n3) [![](w/page153a.gif)][P153] | [N3](#n3) [![](w/page176a.gif)][P176] | [diagr][F18], [N5](#n5):[c][c] [![](w/page197a.gif)][P197] | [N3](#n3) [![](w/page217a.gif)][P217] | [variants](#h18variations): [a][H18a], [b][H18b]  [![](w/page241a.gif)][P241] |
 |     | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
@@ -293,7 +285,7 @@ Notes on the image captions
 ---------------------------
 ### N1
 
-  The scanned image doesn't match the description by Whiting.
+  The scanned image doesn't match the description by Gertrude Whiting.
 
 ### N2
 
@@ -310,11 +302,35 @@ Notes on the image captions
   
 ### N5 
 
-  The short links after N5 lead to sets of pair diagrams. Each pattern in such a set can be morphed into the others by nudging pins.
-  Only four of these links ([c],[t],[k],[v]) cover more than a third of the grounds in the table,
-  a ratio that illustrates how many variations can be made by changing stitches or nudging pin positions.            
-  
-  
+  The short link after each N5 leads to families of pair diagrams.
+
+  Each pattern in such a family can be morphed into the others by nudging pins.
+  Four of these families ([c]loth, [d]iamond, [k]at, [r]ose) cover more than a third of the grounds in the table,
+  other families are [wk] (weaving kat), [s]piders (small), [b]ias (crossed).
+  These families illustrate how many variations can be made by changing stitches or nudging pin positions.
+
+[c]: /GroundForge/sheet?holes=4&img=181&patch=88%0A11;bricks&patch=66%0A22;bricks&patch=88%0A99%0A11%0A00;bricks&patch=66%0A11%0A88%0A22;bricks&patch=66%0A99%0A22%0A00;bricks
+[d]: /GroundForge/sheet?holes=4&img=214&patch=53%0A53%0A53%0A5-;bricks&patch=5663%0A5663;checker&patch=53%0A5-;bricks&patch=563%0A563%0A563;checker&patch=53%0A53;checker&patch=5632%0A5632;checker&patch5353%0A5353;bricks&patch=5-%0A-5;checker&patch=5353%0A5353%0A5-5-%0A-5-5;checker&patch=5632%0A56-2%0A5-5-%0A-535;checker&patch=53%0A5-%0A-5%0A5-;bricks&patch=44%0A77%0A44%0A77;bricks&patch=44%0A44%0A77%0A77;bricks&patch=66%0A88%0A66%0A11;bricks&patch=66%0A66%0A88%0A11;checker&patch=66%0A66%0A99%0A00;checker&patch=6;checker&patch=566-%0A66-5%0A6-56%0A-566;checker
+[r]: /GroundForge/sheet?holes=8-4-3&img=130&patch=5831%0A-4-7;bricks&patch=-437%0A34-7;bricks&patch=4830%0A--77;bricks
+[k]: /GroundForge/sheet?holes=6-3&img=376&patch=B-C-%0A---5%0AC-B-%0A-5--;checker&patch=5831%0A-4-7;checker&patch=68%0A-4;checker&patch=-4-7%0A5---%0A-C-B%0A3158;bricks&patch=5-O-E-%0A-E-5-O%0A5-O-E-;bricks
+[wk]: /GroundForge/sheet?holes=6-3&img=257&patch=6868%0A-4-4%0A2121%0A-7-7;checker&patch=L-O-L-O-%0A---5---5%0AH-E-H-E-%0A-5---5--;bricks
+[s]: /GroundForge/sheet?holes=6-4-3&img=135&patch=5-5-%0A-5--%0AB-C-%0A-5-5;bricks&patch=5632%0A34-7;bricks&patch=256-%0A---5%0AC3B-;bricks&patch=4373%0A5-53;bricks
+[b]: /GroundForge/sheet?holes=8-4-3&img=129&patch=1483%0A8-48;bricks&patch=C-B-%0A-5--%0AB8D-%0A-4--;bricks&patch=-48-%0AB--2%0A8-B8;bricks&patch=-4--%0AB-C3%0A8-48;bricks
+
+[c]  ![](/GroundForge/images/dancing/181.png)
+[d]  ![](/GroundForge/images/dancing/214.png)
+[r]  ![](/GroundForge/images/dancing/130.png)
+[k]  ![](/GroundForge/images/dancing/376.png)
+[wk] ![](/GroundForge/images/dancing/257.png)
+[s]  ![](/GroundForge/images/dancing/135.png)
+[b]  ![](/GroundForge/images/dancing/129.png)  
+
+Some of these pattern families are also in the TesseLace catalogue:
+[cloth](/tesselace-to-gf/#cloth-family),
+[diamond](/tesselace-to-gf/#diamond-family),
+[rose](/tesselace-to-gf/#rose-family),
+[kat](/tesselace-to-gf/#kat-or-paris-family)
+
 Multiple samples with a single base diagram
 -------------------------------------------
 
@@ -333,7 +349,7 @@ The variations on the base diagrams are just different stitches or even just a d
 [![](w/page209a.gif)][P209]
 ![](w/valenciennes-flipped.png)
 
-The patterns are more about plaits than pairs so you can use these [torchon][t] diagrams for pricking variations.
+The patterns are more about plaits than pairs so you can use these [torchon][d] diagrams for pricking variations.
 
 The [base diagram] for the Valenciennes grounds is defined with two plaits and a cloth stitch at the joins of the plaits.
 The variations are defined with the length of the plaits and the number of twists between the stitches.
@@ -392,7 +408,7 @@ a Valenciennes type of join is used instead.
 
 These diagrams give a more or less similar impression.
 The difference in the diagrams are not as much about nudging pins
-as the diagrams presented by for example [t]:
+as the diagrams presented by for example [d]:
 a different working order is required.
 
 * **[The sample](http://www.theedkins.co.uk/jo/lace/whiting/page235.htm)**  &mdash;
