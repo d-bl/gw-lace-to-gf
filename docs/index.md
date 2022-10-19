@@ -317,13 +317,13 @@ Notes on the image captions
 [s]: /GroundForge/print?holes=6-4-3&whiting=A16_P90&patchWidth=11&patchHeight=13&b1=ctcctc&c2=ctcr&a2=ctcl&d3=ctc&b3=ctct&c4=ctc&a4=ctc&tile=-5--,B-C-,-5-5,5-5-&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4&patch=5-5-,-5--,B-C-,-5-5;bricks&patch=5632,34-7;bricks&patch=256-,---5,C3B-;bricks&patch=4373,5-53;bricks
 [b]: /GroundForge/print?holes=8-4-3&whiting=D6_P139&patchWidth=9&patchHeight=9&c1=ct&b1=ctct&a1=ct&c2=ctct&b2=ct&a2=ctct&b3=ctct&tile=831,117,178&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&patch=1483,8-48;bricks&patch=C-B-,-5--,B8D-,-4--;bricks&patch=-48-,B--2,8-B8;bricks&patch=-4--,B-C3,8-48;bricks
 
-[c]  ![](/GroundForge/images/dancing/181.png)
-[d]  ![](/GroundForge/images/dancing/214.png)
-[r]  ![](/GroundForge/images/dancing/130.png)
-[k]  ![](/GroundForge/images/dancing/376.png)
-[wk] ![](/GroundForge/images/dancing/257.png)
-[s]  ![](/GroundForge/images/dancing/135.png)
-[b]  ![](/GroundForge/images/dancing/129.png)  
+[c  ![](/GroundForge/images/dancing/181.png)][c]
+[d  ![](/GroundForge/images/dancing/214.png)][d]
+[r  ![](/GroundForge/images/dancing/130.png)][r]
+[k  ![](/GroundForge/images/dancing/376.png)][k]
+[wk ![](/GroundForge/images/dancing/257.png)][wk]
+[s  ![](/GroundForge/images/dancing/135.png)][s]
+[b  ![](/GroundForge/images/dancing/129.png)][b]
 
 Some of these pattern families are also in the TesseLace catalogue:
 [cloth](/tesselace-to-gf/#cloth-family),
