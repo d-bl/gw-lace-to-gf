@@ -302,7 +302,8 @@ Notes on the image captions
   
 ### N5 
 
-  The short link after each N5 leads to families of pair diagrams.
+  The short link after each N5 leads to a print/PDF friendly page with families of pair diagrams at the bottom.
+  The page starts with some other diagrams for one of the variants as found in the sampler.
 
   Each pattern in such a family can be morphed into the others by nudging pins.
   Four of these families ([c]loth, [d]iamond, [k]at, [r]ose) cover more than a third of the grounds in the table,
