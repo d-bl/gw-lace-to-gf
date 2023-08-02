@@ -350,7 +350,7 @@ The variations on the base diagrams are just different stitches or even just a d
 [![](w/page209a.gif)][P209]
 ![](w/valenciennes-flipped.png)
 
-The patterns are more about plaits than pairs so you can use these [torchon][d] diagrams for pricking variations.
+The patterns are more about plaits than pairs, so you can use these [torchon][d] diagrams for pricking variations.
 
 The [base diagram] for the Valenciennes grounds is defined with two plaits and a cloth stitch at the joins of the plaits.
 The variations are defined with the length of the plaits and the number of twists between the stitches.
