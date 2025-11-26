@@ -449,7 +449,7 @@ In pattern A13 the three paired join is made as follows: the horizontal and vert
 We have made two examples to play with: one with [star-joins][a13star] and one with [fish-joins][a13fish].
 
 [p-mae-gf-3]: /MAE-gf/docs/misca#3-paired-join
-[b-gibritte]: http://www.gibritte.com/
+[b-gibritte]: https://gibritte.over-blog.com/search/GroundForge/
 [a13star]: /GroundForge/stitches?patchWidth=17&patchHeight=20&e1=c&a1=c&e2=crclc&d2=crclc&b2=crclcrrrrrr&a2=llcrclc&d3=ctttt&b3=ctttt&c4=ctctttt&d5=c&b5=c&e6=clcrc&d6=clcrcllllll&b6=clcrc&a6=clcrcll&e7=ctt&a7=ctt&f8=ctctt&tile=c---b-,m9-l8-,-7-4--,--5---,-b-c--,0f-1h-,4---7-,-----5&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8
 [a13fish]: /GroundForge/stitches?patchWidth=16&patchHeight=20&e1=ctc&a1=ctc&e2=ctc&d2=ctc&b2=ctcrrrrrrr&a2=llctc&d3=ctctttt&b3=ctctttt&c4=ctctttt&d5=ctc&b5=ctc&e6=ctc&d6=ctclllllll&b6=ctc&a6=ctcll&e7=ctctt&a7=ctctt&f8=ctctt&tile=c---b-,m9-l8-,-7-4--,--5---,-b-c--,0f-1h-,4---7-,-----5&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8
    
@@ -502,4 +502,4 @@ For an easy overview the maintainer needs to list the changed/added patterns in 
 [history]: https://github.com/d-bl/GroundForge/commits/master/docs/help/Whiting-Index.md
 [changes]: https://github.com/d-bl/GroundForge/wiki/Whiting-Index/_history
 [archive.org]: https://archive.org/details/laceguideformak00whit/page/234
-[original sampler]: https://www.metmuseum.org/blogs/collection-insights/2018/gertrude-whiting-bobbin-lace-sampler
+[original sampler]: https://www.metmuseum.org/perspectives/gertrude-whiting-bobbin-lace-sampler
